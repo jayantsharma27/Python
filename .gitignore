@@ -1,0 +1,9 @@
+# Ignore venv and other sensitive files
+csi/clv/venv/
+csi/clv/__pycache__/
+csi/clv/*.pyc
+csi/clv/*.db
+csi/clv/*.pkl
+csi/clv/.env
+csi/.idea
+rag_loan_chatbot/__pycache__/
